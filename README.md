@@ -88,16 +88,9 @@ cd mymedic-healthcare
 
 Open in Android Studio and sync Gradle files.
 
-## 📊 Impact
-
-- 👥 **50,000+** Active Users
-- 👨‍⚕️ **500+** Verified Doctors
-- ⭐ **4.9** Average Rating
-- 🕐 **24/7** Service Availability
-
 ## 👨‍💻 Author
 
-Your Name - [GitHub](https://github.com/nabilasyfr) | [LinkedIn](https://linkedin.com/in/nabila-amalia-syafujinur)
+Nabila Amalia Syafujinur - [GitHub](https://github.com/nabilasyfr) | [LinkedIn](https://linkedin.com/in/nabila-amalia-syafujinur)
 
 ## 📄 License
 
